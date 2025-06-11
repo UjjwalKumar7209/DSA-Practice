@@ -1,6 +1,3 @@
-# DSA-Practice
-
-
 # 🧠 DSA Solutions by Ujjwal Kumar
 
 This repository contains my practice solutions for Data Structures and Algorithms from platforms like Leetcode, GFG, Codeforces, etc.
