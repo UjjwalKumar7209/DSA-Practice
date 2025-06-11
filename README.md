@@ -1,5 +1,5 @@
 # DSA-Practice
-My Data Structures &amp; Algorithms Practice and solution
+
 
 # 🧠 DSA Solutions by Ujjwal Kumar
 
@@ -10,24 +10,22 @@ This repository contains my practice solutions for Data Structures and Algorithm
 ## 📁 Topics Covered
 
 - ✅ Arrays
+- ✅ Searching and Sorting
+- ✅ Strings
+- ✅ Maths
+- ✅ Recursion and Backtracking
+- ✅ Divide and Conquer
+- ✅ OOPs
 - ✅ Linked List
 - ✅ Stack & Queue
-- ✅ Trees & Binary Trees
-- ✅ Graphs
-- ✅ Dynamic Programming
-- ✅ Strings
-- ✅ Heap, HashMap, Bit Manipulation, etc.
 
 ---
 
-## 📌 Progress Tracker
+## 📌 Progress Tracker From Leetcode
 
-| Topic | Done | Total |
-|-------|------|-------|
-| Arrays | 10 | 30 |
-| LinkedList | 6 | 20 |
-| DP | 4 | 25 |
-| Graph | 3 | 20 |
+| Topic | Done |
+|-------|------|
+| Stack and Queue | 0 |
 
 _Updated regularly as I solve new problems!_
 
@@ -43,5 +41,5 @@ _Updated regularly as I solve new problems!_
 
 ## 🔗 Let's Connect
 
-- 💼 GitHub: [@ujjwalkumar1108](https://github.com/ujjwalkumar1108)
+- 💼 GitHub: [@ujjwalkumar7209](https://github.com/ujjwalkumar7209)
 - 🧠 Twitter: [@ujjwalkumar1108](https://x.com/ujjwalkumar1108)
