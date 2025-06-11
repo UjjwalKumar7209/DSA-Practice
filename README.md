@@ -33,8 +33,8 @@ _Updated regularly as I solve new problems!_
 
 ## 🛠 Platforms
 
-- LeetCode: [@LeetCode](https://leetcode.com/u/_ujjwallk/)  
-- GeeksForGeeks: [@GeeksForGeeks](https://www.geeksforgeeks.org/user/ujjwal7lbn2/)  
+- LeetCode: [@_ujjwallk](https://leetcode.com/u/_ujjwallk/)  
+- GeeksForGeeks: [@ujjwal7lbn2](https://www.geeksforgeeks.org/user/ujjwal7lbn2/)  
 - [Codeforces](https://codeforces.com/)  
 
 ---
