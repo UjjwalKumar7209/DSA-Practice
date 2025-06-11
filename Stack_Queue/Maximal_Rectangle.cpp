@@ -1,7 +1,8 @@
 /*
 Problem: Maximal Rectangles (Leetcode #85)
 Link: https://leetcode.com/problems/maximal-rectangle/description/
-Approach: Make another 2-D array for prefix sum and then for every row use the conecept of largest histogram question
+Approach: Make another 2-D array for prefix sum and then for every row use the conecept of largest rectangle in histogram
+question
 and store it in a maximum variable and so on.
 Time Complexit: o(n x m) + o(n x 2m)
 Date: June 11, 2025
