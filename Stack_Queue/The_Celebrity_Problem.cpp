@@ -1,10 +1,11 @@
 /*
 Problem: The Celebrity Problem (GFG)
 Link: https://www.geeksforgeeks.org/problems/the-celebrity-problem/1
-Approach: Use stack to eliminate non-celebrities and verify the candidate in O(n) time.
+Approach: Use two pointers to find a potential celebrity, then verify by checking rows and columns.
 Time: O(n), Space: O(1)
 Date: June 12, 2025
 */
+
 
 int celebrity(vector<vector<int> >& mat) {
     int top = 0;
