@@ -10,7 +10,7 @@ vector<int> maxSlidingWindow(vector<int>& nums, int k) {
       vector<int> list;
       deque<pair<int, int>> dq;
       for (int i = 0; i < nums.size(); i++) {
-          if (!dq.empty() && dq.front().first <= i-k) {
+          if (!dq.empty() && dq.front().first == i-k) {
               dq.pop_front();
           }
           while (!dq.empty() && dq.back().second <= nums[i]) {
