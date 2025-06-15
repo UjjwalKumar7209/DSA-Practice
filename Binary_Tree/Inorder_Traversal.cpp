@@ -7,7 +7,7 @@ Date: June 11, 2025
 */
 
 
-class Solution {
+class Inorder {
 private:
     void inorderTraversalCode(vector<int> &ans, TreeNode* root) {
         if (root == NULL) {
