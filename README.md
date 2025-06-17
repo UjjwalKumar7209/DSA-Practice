@@ -15,6 +15,7 @@ This repository contains my practice solutions for Data Structures and Algorithm
 - ✅ OOPs
 - ✅ Linked List
 - ✅ Stack & Queue
+- ⏳ Binary Tree
 
 ---
 
@@ -23,7 +24,7 @@ This repository contains my practice solutions for Data Structures and Algorithm
 | Topic | Done |
 |-------|------|
 | Stack and Queue | 16 |
-| Binary Tree | 5 |
+| Binary Tree | 10 |
 
 _Updated regularly as I solve new problems!_
 
