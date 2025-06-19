@@ -2,7 +2,7 @@
 Problem: Symmetric Tree (LeetCode #101)
 Link: https://leetcode.com/problems/symmetric-tree/
 Approach: Use recursion to check if left and right subtrees are mirror images of each other.
-Time: O(2n), Space: O(h) where h is the height of the tree
+Time: O(n), Space: O(n) where h is the height of the tree
 Date: June 19, 2025
 */
 
