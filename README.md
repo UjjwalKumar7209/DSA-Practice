@@ -24,7 +24,7 @@ This repository contains my practice solutions for Data Structures and Algorithm
 | Topic | Done |
 |-------|------|
 | Stack and Queue | 16 |
-| Binary Tree | 10 |
+| Binary Tree | 20 |
 
 _Updated regularly as I solve new problems!_
 
