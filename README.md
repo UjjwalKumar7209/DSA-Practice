@@ -15,7 +15,8 @@ This repository contains my practice solutions for Data Structures and Algorithm
 - ✅ OOPs
 - ✅ Linked List
 - ✅ Stack & Queue
-- ⏳ Binary Tree
+- ✅ Binary Tree
+- ⏳ Binary Search Tree
 
 ---
 
