@@ -16,7 +16,8 @@ This repository contains my practice solutions for Data Structures and Algorithm
 - ✅ Linked List
 - ✅ Stack & Queue
 - ✅ Binary Tree
-- ⏳ Binary Search Tree
+- ✅ Binary Search Tree
+- ⏳ Greedy Algorithm
 
 ---
 
@@ -26,7 +27,8 @@ This repository contains my practice solutions for Data Structures and Algorithm
 |-------|------|
 | Stack and Queue | 16 |
 | Binary Tree | 25 |
-| Binary Search Tree | 8 |
+| Binary Search Tree | 13 |
+| Greedy Algorithm | 10 |
 
 _Updated regularly as I solve new problems!_
 
