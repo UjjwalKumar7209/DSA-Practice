@@ -25,7 +25,7 @@ This repository contains my practice solutions for Data Structures and Algorithm
 
 ---
 
-## 📌 Progress Tracker From Leetcode
+## 📌 Questions Tracker
 
 | Topic | Done |
 |-------|------|
