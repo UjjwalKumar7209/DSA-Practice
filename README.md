@@ -19,9 +19,9 @@ This repository contains my practice solutions for Data Structures and Algorithm
 - ✅ Binary Search Tree
 - ✅ Greedy Algorithm
 - ⏳ Graph
-- ⏳ Trie
 - ⏳ Heap
 - ⏳ Dynamic Programming
+- ⏳ Trie
 
 ---
 
@@ -35,7 +35,6 @@ This repository contains my practice solutions for Data Structures and Algorithm
 | Greedy Algorithm | 9 |
 | Graph | 0 |
 
-_Updated regularly as I solve new problems!_
 
 ---
 
