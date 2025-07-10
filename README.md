@@ -33,7 +33,7 @@ This repository contains my practice solutions for Data Structures and Algorithm
 | Binary Tree | 25 |
 | Binary Search Tree | 13 |
 | Greedy Algorithm | 9 |
-| Graph | 12 |
+| Graph | 20 |
 
 
 ---
